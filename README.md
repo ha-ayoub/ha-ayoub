@@ -2,8 +2,7 @@
 👋 Hi there! I'm Ayoub<br><div align="center"><a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?cursorStyle=block&lines=%5B%7B%22text%22%3A%22Software+Engineer+.NET+%F0%9F%92%BB%22%2C%22color%22%3A%22%23004488%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.14285714285714285%2C%22deleteSpeed%22%3A0.08333333333333333%7D%5D" alt="Typing SVG" /></a></div><br><br>🇫🇷 [FR]<br>Ingénieur logiciel avec 6+ ans d'expérience dans l'écosystème .NET. Je développe des applications full-stack en privilégiant une architecture propre et un code maintenable. Mon expertise couvre le backend comme le frontend, toujours en cherchant à livrer des solutions robustes.<br><br>C'est en forgeant qu'on devient forgeron. Chaque projet est une occasion d'affiner mon savoir-faire et d'apprendre.<br><br><br>🇬🇧 [EN]<br>Software engineer with 6+ years of experience in the .NET ecosystem. I build full-stack applications with a focus on clean architecture and maintainable code. My expertise spans from backend APIs to frontend interfaces, always seeking to deliver robust solutions.<br><br>Practice makes perfect. Every project is an opportunity to refine my craft and learn something new.<br><br><br>🚀 What I Do | Ce que je fais<br>💡 RESTful APIs, Microservices, Full-Stack Development<br>🎯 .NET Core/C#, ASP.NET, React, TypeScript<br>🤝 Agile teams & collaborative development<br>📚 Continuous improvement through hands-on experience
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-hafdi) 
+
 
 # 💻 Tech Stack:
 
@@ -23,4 +22,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-ayoub&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ha-ayoub&icon=0&color=3)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-hafdi) 
