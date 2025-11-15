@@ -1,16 +1,26 @@
-## Hi there 👋
+# 💫 About Me
+👋 Hi there! I'm Ayoub<br><div align="center"><a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?cursorStyle=block&lines=%5B%7B%22text%22%3A%22Software+Engineer+.NET+%F0%9F%92%BB%22%2C%22color%22%3A%22%23004488%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.14285714285714285%2C%22deleteSpeed%22%3A0.08333333333333333%7D%5D" alt="Typing SVG" /></a></div><br><br>🇫🇷 [FR]<br>Ingénieur logiciel avec 6+ ans d'expérience dans l'écosystème .NET. Je développe des applications full-stack en privilégiant une architecture propre et un code maintenable. Mon expertise couvre le backend comme le frontend, toujours en cherchant à livrer des solutions robustes.<br><br>C'est en forgeant qu'on devient forgeron. Chaque projet est une occasion d'affiner mon savoir-faire et d'apprendre.<br><br><br>🇬🇧 [EN]<br>Software engineer with 6+ years of experience in the .NET ecosystem. I build full-stack applications with a focus on clean architecture and maintainable code. My expertise spans from backend APIs to frontend interfaces, always seeking to deliver robust solutions.<br><br>Practice makes perfect. Every project is an opportunity to refine my craft and learn something new.<br><br><br>🚀 What I Do | Ce que je fais<br>💡 RESTful APIs, Microservices, Full-Stack Development<br>🎯 .NET Core/C#, ASP.NET, React, TypeScript<br>🤝 Agile teams & collaborative development<br>📚 Continuous improvement through hands-on experience
 
-<!--
-**ha-ayoub/ha-ayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-hafdi) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+
+### 📝 Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![T-SQL](https://img.shields.io/badge/T%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+### 🏛️ Architectures
+![MVC](https://img.shields.io/badge/MVC-AA5487?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-AA5444?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![CQRS](https://img.shields.io/badge/CQRS-AA1166?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![REST](https://img.shields.io/badge/REST-AA7417?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-AA2812?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+###  🌐 Web Development
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ajax](https://img.shields.io/badge/Ajax-%230769AD.svg?style=for-the-badge&logo=ajax&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+### 🗄 Database & Infrastructure 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)         
+### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI/CD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)     ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)       ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ha-ayoub&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ha-ayoub&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-ayoub&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ha-ayoub&icon=0&color=3)](https://visitcount.itsvg.in)
